@@ -1,0 +1,21 @@
+{
+  "name": "svn_control",
+  "version": "1.0.0",
+  "description": "svn update and pm2 restart node process",
+  "main": "restart.js",
+  "dependencies": {
+    "pm2": "^0.12.15",
+    "svn-spawn": "^0.1.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node restart.js"
+  },
+  "keywords": [
+    "node",
+    "svn",
+    "pm2"
+  ],
+  "author": "vingo",
+  "license": "ISC"
+}

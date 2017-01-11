@@ -1,7 +1,8 @@
 # node_svn_controller
 svn command controller and pm2 operations
 
-steps:
+#steps:
+
  1 npm install   #install packages
  
  2 npm run test  # start node server
